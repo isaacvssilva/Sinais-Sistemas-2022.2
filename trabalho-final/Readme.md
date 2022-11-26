@@ -16,6 +16,8 @@ O objetivo dessa aplicação é utilizar a transformada de Fourier na área de P
 
 ![](./resultados/original.png)
 
+**Uma amostra da imagem sem ruído:**
+
 ![](./resultados/sem-ruido.png)
 
 ![](./resultados/espectro.png)
