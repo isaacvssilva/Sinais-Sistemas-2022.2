@@ -22,8 +22,6 @@ O objetivo dessa aplicação é utilizar a transformada de Fourier na área de P
 
 ## Ambiente utilizado
 
----
-
 * linguagem C++
 
 * POP_OS 22.04 LTS
